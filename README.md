@@ -8,6 +8,8 @@
 
 **Stack** : Unity 
 
+**Storyboard**: https://app.boords.com/storyboards/q6mjk7-moshpit-disaster-game 
+
 **Idea del juego**: Cómo escapar de un recital. 
 **Sub ideas** Los lugares de recitales podrian ser lugares reales bonaerenses (luna park, cemento, river, niceto -deberia conseguir los planos o fotos desde arriba)
 **Versión compleja** : Usando física de fluídos (http://google.github.io/liquidfun/ ). 
